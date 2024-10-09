@@ -1,0 +1,21 @@
+type: edu
+custom_name: Welcome to the battlefield!
+files:
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: tictactoe.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6503#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 26 Sep 2024 02:32:27 UTC"
+record: 1
