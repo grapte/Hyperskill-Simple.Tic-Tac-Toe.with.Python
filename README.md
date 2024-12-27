@@ -1,4 +1,5 @@
-Main file: [Simple Tic-Tac-Toe with Python/task/tictactoe.py](https://github.com/grapte/Hyperskill-Simple.Tic-Tac-Toe.with.Python/blob/main/Simple%20Tic-Tac-Toe%20with%20Python/task/tictactoe.py)
-# Simple Tic-Tac-Toe with Python
+This is a dynamic Tic-Tac-Toe game made in Python. It has a basic grid display and a fully interactive two-player experience. This CLI game enforces valid placements and determines if one side wins.
 
-A CLI program of tic-tac-toe with two players. The game enforces valid placements and determines if one side wins or not on a 3x3 grid.
+Here's the link to the project: https://hyperskill.org/projects/73
+
+Check out my profile: https://hyperskill.org/profile/618051829
